@@ -10,7 +10,8 @@
 - 🤔 I’m looking for help with my next steps in my software development career
 - 💬 Ask me about anything related to Full-Stack development and especially 
 - 🔮 I'm looking to learn new technologies like Web3, NextJS, GraphQL & Apollo, and NestJS
-- 📫 Reach me by mail on: eliasassaf.antoine@gmail.com
+- 🏃🏻 In my free time I like to work out, play some video games, and do some landscape photography
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/antoine-elias-assaf-82368318a/) or by [mail](eliasassaf.antoine@gmail.com)
 
 🗒 Note: 
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My daily work is commited to my current company's BitBucket repos. If intreseted, I can send you all the BitBucket statistics<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;related to my account 
