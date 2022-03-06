@@ -13,7 +13,7 @@
 - 📫 Reach me by mail on: eliasassaf.antoine@gmail.com
 
 🗒 Note: 
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My daily work is commited to my current company's BitBucket repos. If intreseted, I can send you all the BitBucket statistics related to my account 
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My daily work is commited to my current company's BitBucket repos. If intreseted, I can send you all the BitBucket statistics<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;related to my account 
 
 
 
