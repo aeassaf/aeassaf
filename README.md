@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/antoine-elias-assaf-82368318a/) or by [mail](eliasassaf.antoine@gmail.com)
 
 🗒 Note: 
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My daily work is commited to my current company's BitBucket repos. If intreseted, I can send you all the BitBucket statistics<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;related to my account
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My daily work is commited to my current company's BitBucket repos. If intreseted, I can provide all BitBucket statistics<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;related to my account
