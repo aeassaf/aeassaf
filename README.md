@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋🏻
 
-- 🔭 My name is Antoine and I’m currently working as a Full-Stack Web & Mobile Developer at areeba, a FinTech and Digital Payments company
+- 🔭 My name is Antoine and I’m currently working as a Software Engineer at JumpCloud, a company that provides a zero-trust directory platform
 - ✨ I love having conventions for everything related to code, commits, and pull requests
-- ⚡️  My forte lies in writing scalable mobile apps using React-Native & Redux-Toolkit with TypeScript 
+- ⚡️ My forte lies in writing scalable mobile apps using React-Native & Redux-Toolkit with TypeScript 
      <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with many other tools that make the project clean, extensible, and team-friendly    
 - 🌱 I’m currently working on a private Web project and learning hidden gems in the ReactJS and React-Native frameworks
      <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by reading all their documentations
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/antoine-elias-assaf-82368318a/) or by [mail](eliasassaf.antoine@gmail.com)
 
 🗒 Note: 
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My daily work is commited to my current company's BitBucket repos. If intreseted, I can provide all BitBucket statistics<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;related to my account
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My daily work is commited using my current company's GitHub/Bitbucket account. If intreseted, I can provide some statistics<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;related to my account
