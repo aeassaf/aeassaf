@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋🏻
 
-- 🔭 My name is Antoine and I’m currently working as a Software Engineer at JumpCloud, a company that provides a zero-trust directory platform
+- 🔭 My name is Antoine and I’m currently working as a Software Engineer at BIL, a company that provides a zero-trust directory platform
 - ✨ I love having conventions for everything related to code, commits, and pull requests
 - ⚡️ My forte lies in writing scalable mobile apps using React-Native & Redux-Toolkit with TypeScript 
      <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with many other tools that make the project clean, extensible, and team-friendly    
