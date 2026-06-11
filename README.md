@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to Full-Stack development 
 - 🔮 I'm looking to learn new technologies like Agentic AI
 - 🏃🏻 In my free time I like to work out, play some video games, and do some landscape photography
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/antoine-elias-assaf-82368318a/) or by [mail](eliasassaf.antoine@gmail.com)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/antoine-elias-assaf-82368318a/)
 
 🗒 Note: 
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My daily work is commited using my current company's GitLab account. If intreseted, I can provide some statistics<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;related to my account
