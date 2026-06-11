@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🕺🏻 I’m looking to collaborate on an open-source project that'll re-enforce my knowledge and portfolio
 - 🤔 I’m looking for help with my next steps in my software development career
 - 💬 Ask me about anything related to Full-Stack development 
-- 🔮 I'm looking to learn new technologies like Agentic AI
+- 🔮 I'm looking to learn new technologies
 - 🏃🏻 In my free time I like to work out, play some video games, and do some landscape photography
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/antoine-elias-assaf-82368318a/)
 
