@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋🏻
 
-- 🔭 My name is Antoine and I’m currently working as a Software Engineer at BIL - Banque Internationale à Luxembourg.
+- 🔭 My name is Antoine and I’m currently working as a Senior Software Engineer at Kyndryl.
 - ✨ I love having conventions for everything related to code, commits, and pull requests
 - ⚡️ My forte lies in writing scalable apps using React & Node.js with TypeScript 
      <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with many other tools that make the project clean, extensible, and team-friendly    
